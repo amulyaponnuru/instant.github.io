@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.amadeus.sampleinstantapp",
+    "sha256_cert_fingerprints":
+    ["8A:24:D6:35:68:36:73:B8:B4:96:7F:64:17:7C:75:36:67:17:CD:F2:8D:22:6A:35:E4:3D:84:E0:79:73:05:97"]
+  }
+}]
